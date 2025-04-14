@@ -4,6 +4,6 @@ email: W0842674@myscc.ca
 Baseurl: "/Portfolio"
 
 collections:
-design:
-output: true
-permalink: /:collection/:path/
+  design:
+    output: true
+    permalink: /:collection/:path/
