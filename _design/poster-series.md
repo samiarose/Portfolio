@@ -1,5 +1,5 @@
 ---
-title:"Poster Series"
+title: "Poster Series"
 tools: [Photoshop, InDesign]
 description: "A Typographic poster seires exploring contrast, scale, and rhythm."
 layout:
