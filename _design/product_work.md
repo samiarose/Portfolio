@@ -1,5 +1,5 @@
 ---
-title:"product_work"
+title:"product work"
 tools: [Photoshop, InDesign]
 description: "This is showcasing the product work ive made and designed"
 layout:
