@@ -18,4 +18,3 @@ The digital work ive done that shows lots of fun cute and natural designs
 ## Outcomes
 
 when drawing digitally, it has helped me express myself very easily through lines and detail.
-

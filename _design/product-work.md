@@ -20,4 +20,3 @@ The digital work ive done that shows lots of fun cute and natural designs
 
 When working and designing the package design, it brings me one step 
 closer on how to incorporate this when I will design my own branding.
-
