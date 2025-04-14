@@ -1,5 +1,5 @@
 ---
-title:"digital-work"
+title:"digital work"
 tools: [Photoshop, InDesign]
 description: "This is showcasing the digital work ive done"
 layout:
