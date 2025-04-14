@@ -18,5 +18,4 @@ typography can comunicate emotion and energy through layout.
 
 ## Outcomes
 
-This project helped devloped a stronger sence of visual hierarchy and gave 
-me the opportunity to experiment with typr-as-image
+This project helped devloped a stronger sence of visual hierarchy and gave me the opportunity to experiment with typr-as-image
