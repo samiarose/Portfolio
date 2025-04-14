@@ -9,7 +9,7 @@ permalink:
 ## Project Overview
 
 This poster series was created to explore how 
-typography can comunicate emotion and energy thorough layout.
+typography can comunicate emotion and energy through layout.
 
 ## Tools & Techniques 
 

@@ -1,12 +1,12 @@
 ---
-title:"product work"
+title:"Product Work"
 tools: [Photoshop, InDesign]
 description: "This is showcasing the product work ive made and designed"
 layout:
 permalink:
 ---
 
-## Project Overveiw
+## Project Overview
 
 The digital work ive done that shows lots of fun cute and natural designs 
 
